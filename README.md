@@ -8,7 +8,7 @@ The site offers many different resume styles, so users can choose the one they l
 ### Main features
 
 ## Start of the project
-This project shows my learning process and development during the cloud computing course. At the beginning of the course, I was able to build cloud architectures with guidance, and I had a basic understanding of backend programming. After completing the project, my cloud skills, especially with AWS, improved significantly, and I became more confident working with cloud-based systems.
+This project shows my learning process and development during the course. At the beginning of the course, I was able to build cloud architectures with guidance, and I had a basic understanding of backend programming. After completing the project, my cloud skills, especially with AWS, improved significantly, and I became more confident working with cloud-based systems.
 
 The main part of the project is presented through a cloud architecture diagram with clear explanations of the technology choices. This helps show how the application is built and why certain cloud services were selected. The side work of the project is shown through backend code snippets that I had to learn and write so that the application works correctly in the cloud environment.
 
@@ -25,4 +25,4 @@ The course supported these goals well by teaching how to move from an idea to ar
 ## After school
 To reach my goals, I still need to deepen my technical skills, gain more work experience, and complete AWS certifications. My strengths include problem-solving skills, patience, and strong interest in cloud services, especially AWS. These strengths became clearer during the project, as I faced new challenges and enjoyed solving them.
 
-I chose this project and its documents for my portfolio because they best show my work, my learning process, and the challenges I faced while building a cloud-based application.
+I chose these documents for my portfolio because they best show my work, my learning process, and the challenges I faced while building a cloud-based application.
