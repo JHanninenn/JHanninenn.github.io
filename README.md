@@ -17,6 +17,11 @@ During the project, I realized that traditional programming is not the area I en
 
 One of my main goals was to build a working cloud architecture for the application, and this goal was achieved. I also learned new backend programming skills while working on the project. In addition to technical skills, I improved my teamwork skills by working together with others and solving problems as a team.
 
+## Infrastructure
+Here you can see the AWS architecture diagram and some explanations on the choices.
+![Architecture diagram](images/aws_architecture.png)
+
+
 ## Future
 In the future, I see myself working on different projects, but I hope to focus mainly on cloud services rather than traditional programming tasks. My career goal is to work in a role where I can design cloud architectures or work as a cloud consultant.
 
