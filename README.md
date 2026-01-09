@@ -58,3 +58,102 @@ The course supported these goals well by teaching how to move from an idea to ar
 To reach my goals, I still need to deepen my technical skills, gain more work experience, and complete AWS certifications. My strengths include problem-solving skills, patience, and strong interest in cloud services, especially AWS. These strengths became clearer during the project, as I faced new challenges and enjoyed solving them.
 
 I chose these documents for my portfolio because they best show my work, my learning process, and the challenges I faced while building a cloud-based application.
+
+
+
+
+# MAHDOLLINEN PÄIVITETTY VERSIO
+
+# Resumate
+
+## 1. Introduction
+**Resumate** is a web tool that helps people create resumes easily. Users fill in simple text boxes with personal information, work experience, and skills. The website then generates a ready-to-use resume.  
+
+- Offers multiple resume styles to suit different jobs or personal preferences.  
+- Makes resume creation faster and easier, especially for users with limited design experience.  
+
+---
+
+## 2. My Role & Learning During the Project
+During the project, I discovered that I prefer working with **cloud services, infrastructure, and architecture design** over traditional programming.  
+
+**What I achieved:**  
+- Built a working **cloud architecture** for the application.  
+- Learned new **backend programming skills**.  
+- Improved **teamwork skills** by collaborating with others and solving problems together.  
+
+---
+
+## 3. Project Overview
+
+### 3.1 Infrastructure
+**AWS Architecture:**  
+![Architecture diagram](images/aws_architecture.png)
+
+- **S3 static host bucket** – Simple hosting for the frontend.  
+- **CloudFront** – Delivers the website and resume files faster; fixes path issues.  
+- **Elastic Beanstalk backend** – Handles servers, scaling, load balancing, and deployment.  
+
+> Choosing Elastic Beanstalk over Lambda functions made deployment easier and allowed me to focus on architecture rather than manual configuration.  
+
+---
+
+### 3.2 Project Start
+At the beginning of the course:  
+- Able to build cloud architectures with guidance.  
+- Had a basic understanding of backend programming.  
+
+After completing the project:  
+- Improved **AWS cloud skills** significantly.  
+- Became more confident in working with **cloud-based systems**.  
+- Learned to integrate frontend and backend in the cloud.  
+
+---
+
+### 3.3 Main Features
+
+**Resume Preview:**  
+- Displays a resume like an A4 page in the browser.  
+- Automatically scales to fit different screen sizes.  
+![preview image](images/preview_ss.png)  
+
+**PDF Generation (Backend API):**  
+- Receives user data from input fields.  
+- Builds a resume using an HTML template.  
+- Converts it to A4 PDF using Puppeteer.  
+- Uploads PDF to **Amazon S3** and returns a **CloudFront download link**.  
+![createCV image](images/createcv_ss.png)  
+
+**Challenges:**  
+- Backend initially failed to start; resolved configuration issues in Elastic Beanstalk.  
+- Integrating frontend and backend in the cloud required additional problem-solving.  
+
+---
+
+## 4. Key Achievements
+- Built a **complete cloud-based CV generation system** using AWS.  
+- Successfully generated and distributed PDFs using **Puppeteer, S3, and CloudFront**.  
+- Designed a **scalable cloud architecture**.  
+- Gained a **new set of technical skills** for future projects.  
+
+---
+
+## 5. Reflection & Learning
+- Learned a lot of new skills and applied existing AWS knowledge.  
+- Improved **problem-solving skills, patience, and cloud expertise**.  
+- Confirmed that **cloud services** are the area I want to focus on in my career.  
+
+---
+
+## 6. Future Goals
+- Focus mainly on **cloud services** rather than traditional programming tasks.  
+- Aim to work in roles like **cloud architect or cloud consultant**.  
+- Continue improving technical skills, gaining work experience, and completing **AWS certifications**.  
+
+---
+
+## 7. Why These Documents
+I chose these materials for my portfolio because they clearly show:  
+- My work on the project.  
+- My learning process and skill development.  
+- The challenges I faced while building a cloud-based application.  
